@@ -1,4 +1,4 @@
 # git-sample
 Learning GIT
 
-This is just for testing
+This is just testing for branch creation
